@@ -26,3 +26,9 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+@media (max-width: 480px) {
+    .equipo h3 {
+        font-size: 30px;
+    }
+}
